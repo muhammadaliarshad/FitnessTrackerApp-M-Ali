@@ -1,2 +1,1 @@
-# FitnessTrackerApp-M-Ali
-FitnessTrackerApp Assingment
+Fitness Tracker App
